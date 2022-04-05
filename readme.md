@@ -1,3 +1,3 @@
-# DIP with Java
+# Digital Image Processing with Java
 
 Using OpenCV
